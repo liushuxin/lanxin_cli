@@ -1,0 +1,17 @@
+{
+  "name": "lanxin-cli",
+  "version": "1.0.0",
+  "description": "lanxin-cli",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liushuxin",
+  "license": "ISC"
+}
